@@ -1,7 +1,7 @@
 # Working-with-class-templates
 Library Management System with a collection of books and patrons
 
-Tutorial10 for COMP2404B
+From COMP2404B
 
 Author: Adam Farah
 
